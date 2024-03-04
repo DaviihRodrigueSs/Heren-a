@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\bin\Debug\net7.0\Herança.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\bin\Debug\net7.0\Herança.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\bin\Debug\net7.0\Herança.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\bin\Debug\net7.0\Herança.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\bin\Debug\net7.0\Herança.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\refint\Herança.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\Herança.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\Herença\obj\Debug\net7.0\ref\Herança.dll
